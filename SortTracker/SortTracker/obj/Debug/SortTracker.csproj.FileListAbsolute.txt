@@ -1,0 +1,7 @@
+D:\cs\SortTracker\SortTracker\bin\Debug\SortTracker.exe.config
+D:\cs\SortTracker\SortTracker\bin\Debug\SortTracker.exe
+D:\cs\SortTracker\SortTracker\bin\Debug\SortTracker.pdb
+D:\cs\SortTracker\SortTracker\obj\Debug\SortTracker.csprojAssemblyReference.cache
+D:\cs\SortTracker\SortTracker\obj\Debug\SortTracker.csproj.CoreCompileInputs.cache
+D:\cs\SortTracker\SortTracker\obj\Debug\SortTracker.exe
+D:\cs\SortTracker\SortTracker\obj\Debug\SortTracker.pdb
